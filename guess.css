@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    width: 100%;
+    background-color: #9c5b5b;
+    color: white;
+
+}
+
+#heading{
+    /* margin-left: 10px; */
+    background-color: black;
+    padding: 0% 0% 0% 45%;
+}
+
+#para1{
+    margin-left: 40%;
+    margin-top: 4%;
+}
+
+#para2{
+    margin-left: 38%;
+    margin-top: 2%;
+}
+
+#title{
+    margin-top : 80px;
+    margin-left: 45%;
+}
+
+#userInput{
+    font-size: 40px;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 50px;
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    border-color: red;
+    border-width: 5px;
+}
+
+#submit{
+    display: flex;
+   padding: 20px;
+   border-radius: 20px;
+   background-color: blanchedalmond;
+   border-color: aqua;
+   margin-left: 51%;
+   margin-top: 30px;
+}
+
+p{
+    margin-left: 40%;
+    margin-top: 30px;
+}
+
+.prevguess{
+    color: white;
+    padding: 7px;
+}
+
+.remaining{
+    color: white;
+    padding: 7px;
+}
+
+.result{
+    color: white;
+    padding: 7px;
+}
+
+#newGame{
+    
+    display: flex;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: blanchedalmond;
+    border-color: aqua;
+    margin-left: 51%;
+    margin-top: 0px;
+}
